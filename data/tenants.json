@@ -1,0 +1,18 @@
+{"gathered": "2026-10-01",
+ "dark_bracket": {"last_seen_occupied": "2025-07-17", "first_seen_listed": "2026-04-17", "basis": "Wayback captures of avantgardefusionnyc.com (still at 167 Mott) and ksrny.com/listing/167-mott-street (listed, possession immediate)", "caveat": "That the listed space is the AvantGarde Fusion shopfront is inferred: the other shopfront, Wick and Pour, is open. Not confirmed at the door."},
+ "listing": {"broker": "KSR (Kassin Sabbagh Realty)", "ground_sf": 550, "basement_sf": 550, "frontage_ft": 10, "ceiling_ft": 10, "rent": "upon request", "possession": "immediate", "loopnet_id": "39571143", "ksr_page_2026_10_01": "Not Found", "archived": "https://web.archive.org/web/20260417054818/https://www.ksrny.com/listing/167-mott-street"},
+ "timeline": [
+  {"when": "1968-09-04", "what": "Deed, Rose Luca to Virginia Young. Young family holds until 2013 (estates 2001, 2005; Sophie Von Young Enterprise LLC 2008).", "source": "ACRIS"},
+  {"when": "2013-09", "what": "Ritual Archive opens, outlet of Ritual Vintage (377 Broome). Reviewed by Time Out 27 Sept 2013. Closed, date not found.", "source": "https://www.timeout.com/newyork/shopping/ritual-archive-closed"},
+  {"when": "2013-12-16", "what": "Sold for $8,500,000 to 167 Mott Street LLC.", "source": "ACRIS"},
+  {"when": "2014-05", "what": "DOB Alt-2: minor exterior renovation of existing commercial storefronts and residential entrance. Signed off.", "source": "DOB job filings, BIN 1006987"},
+  {"when": "2015-03-03", "what": "Sold for $17,000,000 to 167 Mott LLC, the current owner.", "source": "ACRIS"},
+  {"when": "2019-02-22", "what": "Hemp Garden (CBD) opens, its fourth NYC location. Closed, date not found.", "source": "Yelp business page, via search"},
+  {"when": "2019-2021", "what": "DOF storefront registry: two premises (retail, other), both filed not vacant on 12/31. No filings for this lot after the 2020-21 year.", "source": "data.cityofnewyork.us 92iy-9c3n"},
+  {"when": "2021", "what": "AvantGarde Fusion established at 167 Mott (its own claim).", "source": "https://web.archive.org/web/20250710010246/https://www.avantgardefusionnyc.com/"},
+  {"when": "2023-12 to 2024-12", "what": "Eight 311 commercial noise complaints at the address (loud music/party, store). Tenant's site lists in-store events Oct, Nov, Dec 2024.", "source": "311, erm2-nwe9"},
+  {"when": "2024-07-02", "what": "Sidewalk shed permit (DOB NOW, MNK Enterprises). Facade violation open since 2025-06-09.", "source": "DOB NOW, ECB"},
+  {"when": "2025-07-17", "what": "Last capture of AvantGarde Fusion's site giving 167 Mott; pop-ups Apr-Jun 2025.", "source": "Wayback"},
+  {"when": "2026-04-17", "what": "KSR listing captured: 550 sf ground + 550 basement, possession immediate.", "source": "Wayback"},
+  {"when": "2026-10-01", "what": "AvantGarde Fusion 'now located at 207 Bowery'. KSR page Not Found. Wick and Pour (candle studio) open at 167 Mott daily 12-10, 217 Yelp reviews.", "source": "avantgardefusionnyc.com, ksrny.com, wickandpour.com"}],
+ "not_established": ["which shopfront (north or south) each tenant occupied", "when Hemp Garden and Ritual Archive closed", "when Wick and Pour opened at 167 Mott", "tenants before 2013", "whether the space is still available"]}
