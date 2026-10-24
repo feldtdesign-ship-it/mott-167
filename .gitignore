@@ -7,3 +7,12 @@ data/pull_*.out
 frames/map_plan.jpg
 frames/map_axon.jpg
 frames/map_wide.jpg
+listing/
+
+# private: documents, phone video and screenshots dropped in the folder
+*.docx
+*.doc
+*.MOV
+*.mov
+*.heic
+Screenshot*

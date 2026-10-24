@@ -1,6 +1,6 @@
 # 167 Mott Street, one door of two
 
-One storefront on the west side of Mott between Broome and Grand, Manhattan. Two shopfronts under a seven-storey walk-up: one is a candle studio open till ten, the other went dark in the last 5 to 14 months and is listed with KSR, rent on request. Public data, gathered 1 October 2026.
+One storefront on the west side of Mott between Broome and Grand, Manhattan. Two shopfronts under a seven-storey walk-up: one is a candle studio open till ten, the other went dark in the last 5 to 14 months and is listed with Meridian Retail Leasing at $6,750 a month, reduced from $7,000, after first appearing with KSR at rent on request. Public data, gathered 1 October 2026; listing updated October 2026.
 
 **Live page:** https://feldtdesign-ship-it.github.io/mott-167/
 
@@ -35,6 +35,6 @@ The shopfronts, windows and fire escape on the 167 Mott model are drawn from the
 - DOF Storefront Registry, BBL 1004710046 and every filing within 250 m
 - NYC Motor Vehicle Collisions, Planimetric Database, building footprints, street centerline, 2015 street tree census, PLUTO, ACRIS, DOB, ECB, 311
 - NYC DOT camera network, Open-Meteo daily archive, Citi Bike GBFS
-- KSR listing (archived 17 April 2026), LoopNet 39571143, the tenants' own pages
+- KSR listing (archived 17 April 2026), Meridian Retail Leasing flyer (October 2026), LoopNet 39571143, the tenants' own pages
 
 Nobody counts the people passing this door. The page says so where it matters.
